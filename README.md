@@ -162,6 +162,7 @@ chmod +x scripts/sync_claude.sh
 - [Claude Desktop Setup & Lifetime Guide](docs/CLAUDE_DESKTOP_SETUP.md)
 - [Google Antigravity Setup Guide](docs/ANTIGRAVITY_SETUP.md)
 - [Troubleshooting & FAQs](docs/TROUBLESHOOTING.md)
+- [Agent Skill Guide](skills/hermes-desktop-bridges/SKILL.md)
 
 ---
 
