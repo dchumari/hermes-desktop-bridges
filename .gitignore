@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets (CRITICAL)
+*.env
+*.env.*
+*.token
+*.token.*
+*.key
+*.pem
+*.secret
+
+# Credentials & OAuth caches (CRITICAL - DO NOT COMMIT)
+auth.json
+auth.lock
+.anthropic_oauth.json
+.antigravity_oauth.json
+.credentials.json
+credentials.json
+token.json
+tokenCacheV2*
+local_state.json
+*.db
+*.db-shm
+*.db-wal
+*.db.*.lock
+
+# Hermes runtime & user directories
+.hermes/
+hermes_cache/
+audio_cache/
+image_cache/
+logs/
+*.log
+state.db*
+kanban.db*
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.agents/
+.gemini/

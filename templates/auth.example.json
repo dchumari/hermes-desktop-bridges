@@ -1,0 +1,15 @@
+{
+  "credential_pool": {
+    "anthropic": [
+      {
+        "id": "claude_desktop",
+        "label": "Claude Desktop Pro",
+        "token": "sk-ant-placeholder-token",
+        "refresh_token": "sk-ant-placeholder-refresh-token",
+        "expires_at": 1818838722297,
+        "source": "claude_desktop_windows"
+      }
+    ],
+    "antigravity": []
+  }
+}

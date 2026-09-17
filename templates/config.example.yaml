@@ -1,0 +1,20 @@
+# Hermes Configuration Example with Claude Desktop & Google Antigravity Bridges
+# Place this at $HERMES_HOME/config.yaml (or %LOCALAPPDATA%\hermes\config.yaml on Windows)
+
+# Default model and provider
+model: anthropic/claude-haiku-4-5
+
+# Provider definitions
+providers:
+  anthropic: {}
+  antigravity: {}
+  google-antigravity: {}
+
+# Agent behavior settings
+temperature: 0.7
+max_tokens: 4096
+
+# Tool execution permissions
+tools:
+  allow_terminal: true
+  allow_file_edit: true

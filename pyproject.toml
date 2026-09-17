@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hermes-desktop-bridges"
+version = "0.1.0"
+description = "Universal bridges connecting local Claude Desktop and Google Antigravity subscriptions to Hermes Agent & Hermes Desktop"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+    { name = "dchumari" }
+]
+keywords = [
+    "hermes",
+    "hermes-agent",
+    "claude",
+    "claude-desktop",
+    "antigravity",
+    "anthropic",
+    "google-cloud-code",
+    "llm",
+    "ai-agent"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX :: Linux",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+]
+requires-python = ">=3.10"
+dependencies = [
+    "cryptography>=41.0.0",
+    "pyyaml>=6.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0"
+]
+
+[project.scripts]
+hermes-sync-claude = "scripts.sync_claude:main"
+hermes-setup-bridges = "scripts.setup_all:main"
+hermes-verify-bridges = "scripts.verify_connections:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["bridges*", "scripts*"]
