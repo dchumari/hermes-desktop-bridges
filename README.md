@@ -24,6 +24,14 @@ If you already subscribe to **Claude Pro / Team** via the official Claude Deskto
 
 **Hermes Desktop Bridges** bridges your local desktop app subscriptions into **Hermes Agent** (CLI) and **Hermes Desktop** (Electron GUI). It automatically discovers and decrypts your local OAuth credentials, manages multi-year inference tokens, and sets up high-performance routing across Windows, macOS, and Linux.
 
+<div align="center">
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=chumari&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/chumari)
+
+*Enjoying Hermes Desktop Bridges? Consider [buying me a coffee](https://buymeacoffee.com/chumari) to support continued updates and new desktop bridges!*
+
+</div>
+
 ---
 
 ## 🏗️ Architecture
