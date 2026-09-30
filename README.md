@@ -12,6 +12,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://python.org)
 [![Platform: Windows | macOS | Linux](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](docs/ARCHITECTURE.md)
 [![Hermes Compatible](https://img.shields.io/badge/Hermes-Compatible-orange.svg)](https://github.com/nousresearch/hermes)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-ffdd00.svg?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chumari)
 
 </div>
 
@@ -163,6 +164,20 @@ chmod +x scripts/sync_claude.sh
 - [Google Antigravity Setup Guide](docs/ANTIGRAVITY_SETUP.md)
 - [Troubleshooting & FAQs](docs/TROUBLESHOOTING.md)
 - [Agent Skill Guide](skills/hermes-desktop-bridges/SKILL.md)
+
+---
+
+## ☕ Support the Project
+
+If **Hermes Desktop Bridges** saves you money on API costs or accelerates your autonomous coding workflow, consider buying a coffee to support continued development and maintenance:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=chumari&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/chumari)
+
+☕ **Direct link:** [buymeacoffee.com/chumari](https://buymeacoffee.com/chumari)
+
+</div>
 
 ---
 

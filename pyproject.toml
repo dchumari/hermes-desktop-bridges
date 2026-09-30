@@ -44,6 +44,12 @@ dev = [
     "pytest>=7.0.0"
 ]
 
+[project.urls]
+Homepage = "https://github.com/dchumari/hermes-desktop-bridges"
+Repository = "https://github.com/dchumari/hermes-desktop-bridges"
+"Buy Me a Coffee" = "https://buymeacoffee.com/chumari"
+Funding = "https://buymeacoffee.com/chumari"
+
 [project.scripts]
 hermes-sync-claude = "scripts.sync_claude:main"
 hermes-setup-bridges = "scripts.setup_all:main"
