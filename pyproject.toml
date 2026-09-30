@@ -9,7 +9,7 @@ description = "Universal bridges connecting local Claude Desktop and Google Anti
 readme = "README.md"
 license = { text = "MIT" }
 authors = [
-    { name = "dchumari" }
+    { name = "dchumari", email = "dchumari@gmail.com" }
 ]
 keywords = [
     "hermes",

@@ -187,6 +187,21 @@ If **Hermes Desktop Bridges** saves you money on API costs or accelerates your a
 
 </div>
 
+## 💼 Commercial & Custom Engineering (Freelance)
+
+> Need custom local LLM routing, desktop reverse-engineering, DPAPI/Keychain credential adapters, or autonomous multi-agent pipelines built for your startup?  
+> **I take on selective freelance contracts and architectural advisory.**  
+> 📩 **Get in touch:** [dchumari@gmail.com](mailto:dchumari@gmail.com) | GitHub: [@dchumari](https://github.com/dchumari)
+
+---
+
+## 🗺️ Roadmap & Ecosystem
+
+- [x] **Python CLI Core**: 100% Free and open-source forever.
+- [x] **In-Process Antigravity Provider**: Zero-latency Cloud Code Assist routing with non-interception safety.
+- [ ] **Background Auto-Sync Tray App**: 1-click Windows & macOS system tray utility for automated multi-day silent token refresh.
+- [ ] **Next Desktop Adapters**: Reverse-engineering and bridge support for Cursor IDE & Windsurf desktop tokens.
+
 ---
 
 ## 🤝 Contributing

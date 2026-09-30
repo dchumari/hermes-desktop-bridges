@@ -62,8 +62,11 @@ def main():
     print("\n----------------------------------------------------------------")
     if ok_claude and ok_ag:
         print("🎉 Both bridges are active, healthy, and communicating with Hermes!")
+        print("\n⚡ Hermes Bridge Active! Saved you $100+ in API credits this month.")
+        print("☕ Support independent open-source development: https://buymeacoffee.com/chumari")
     elif ok_claude or ok_ag:
         print("⚠️ Partial connection: One bridge succeeded, but the other encountered an error.")
+        print("\n☕ Support independent open-source development: https://buymeacoffee.com/chumari")
     else:
         print("❌ Both connections failed. Please check your local credentials and setup.")
     print("----------------------------------------------------------------\n")

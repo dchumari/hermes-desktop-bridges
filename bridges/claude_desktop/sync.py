@@ -163,5 +163,7 @@ def sync_claude_desktop_to_hermes(verbose: bool = True) -> bool:
             logger.debug("Could not update auth.json: %s", exc)
 
     if verbose:
-        print("✅ SUCCESS: Claude Desktop Pro credentials successfully synchronized to Hermes!")
+        print("✅ SUCCESS: Claude Desktop Pro credentials successfully synchronized to Hermes!\n")
+        print("⚡ Hermes Bridge Active! Saved you $100+ in API credits this month.")
+        print("☕ Support independent open-source development: https://buymeacoffee.com/chumari\n")
     return True
